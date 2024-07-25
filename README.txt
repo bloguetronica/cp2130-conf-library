@@ -5,7 +5,7 @@ subsequent version, along with these files. The included files also showcase
 the new features that are present on the most recent versions of the
 configuration application.
 
-A list of configuration files and their descriptions follows:
+A list of configuration files, and respective targets, follows:
 – fau200-r0.xml – FAU200 power supply, revision 0;
 – fau200-r1.xml – FAU200 power supply, revision 1;
 – fau201-r0.xml – FAU201 power supply, revision 0;
