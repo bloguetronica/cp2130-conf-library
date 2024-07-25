@@ -14,9 +14,9 @@ A list of configuration files, and their respective projects, follows:
 – gf1-ra.xml – GF1 function generator, revision A;
 – gf2-r0.xml – GF2 function generator, revision 0;
 – gf2-ra.xml – GF2 function generator, revision A;
-– itusb1-r0.xml – ITUSB1 USB switch, revision 0;
-– itusb1-ra.xml – ITUSB1 USB switch, revision A;
-– itusb2-r0.xml – ITUSB2 USB switch, revision 0.
+– itusb1-r0.xml – ITUSB1 USB test switch, revision 0;
+– itusb1-ra.xml – ITUSB1 USB test switch, revision A;
+– itusb2-r0.xml – ITUSB2 USB test switch, revision 0.
 
 To know more about CP2130 Configurator, and download the application, go to:
 – https://github.com/bloguetronica/cp2130-conf
