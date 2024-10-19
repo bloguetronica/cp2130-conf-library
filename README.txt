@@ -1,6 +1,6 @@
 This package contains configuration files pertaining to some specific
 CP2130-based projects. To configure the targeted devices with the correct
-settings, it is recommended to use the CP2130 Configurator version 3.0, or any
+settings, it is recommended to use CP2130 Configurator version 3.0, or any
 subsequent version, along with these files. The included files also showcase
 the new features that are present in the most recent version of the
 configuration application.
